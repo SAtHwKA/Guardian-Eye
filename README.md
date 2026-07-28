@@ -84,7 +84,7 @@ The dashboard defaults to CCTV disconnected on every login — an operator must 
 
 Fixed demonstration credentials for hackathon evaluation only, scoped to a local/sandboxed instance. Not production secrets.
 
-| Role | Username | Password | Capabilities |
+| Role | Capabilities |
 |---|---|---|---|
 | Manager | Connect/disconnect CCTV, trigger buzzer, arm/abort blast countdown, view alerts |
 | Employee | View live feed and redacted safety log, no blast control |
