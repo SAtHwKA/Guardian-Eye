@@ -80,14 +80,16 @@ streamlit run action/main.py
 
 The dashboard defaults to CCTV disconnected on every login — an operator must explicitly grant camera access each session rather than monitoring silently running by default.
 
-## Demo Credentials
+## Demo Access
 
-Fixed demonstration credentials for hackathon evaluation only, scoped to a local/sandboxed instance. Not production secrets.
+The Command Center enforces role-based login before any control surface is reachable. Two roles are provisioned for evaluation purposes:
 
 | Role | Capabilities |
-|---|---|---|---|
+|---|---|
 | Manager | Connect/disconnect CCTV, trigger buzzer, arm/abort blast countdown, view alerts |
 | Employee | View live feed and redacted safety log, no blast control |
+
+Demo credentials are provided separately to judges/evaluators and are not published in this repository.
 
 ## Safety, Access, and Accountability
 
