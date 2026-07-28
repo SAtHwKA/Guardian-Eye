@@ -86,8 +86,8 @@ Fixed demonstration credentials for hackathon evaluation only, scoped to a local
 
 | Role | Username | Password | Capabilities |
 |---|---|---|---|
-| Manager | MGR_01 | Manager_Pass_123! | Connect/disconnect CCTV, trigger buzzer, arm/abort blast countdown, view alerts |
-| Employee | EMP_01 | Employee_Pass_123! | View live feed and redacted safety log, no blast control |
+| Manager | Connect/disconnect CCTV, trigger buzzer, arm/abort blast countdown, view alerts |
+| Employee | View live feed and redacted safety log, no blast control |
 
 ## Safety, Access, and Accountability
 
