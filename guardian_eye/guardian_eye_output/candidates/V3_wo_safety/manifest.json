@@ -1,0 +1,2254 @@
+{
+  "video_source": "V3_wo_safety.mp4",
+  "generated_at": "2026-07-20T20:32:41.043688",
+  "frame_width": 3840,
+  "frame_height": 2160,
+  "danger_zone_polygon": [
+    [
+      1920,
+      0
+    ],
+    [
+      3840,
+      0
+    ],
+    [
+      3840,
+      2160
+    ],
+    [
+      1920,
+      2160
+    ]
+  ],
+  "total_frames_processed": 401,
+  "total_detections": 159,
+  "detections": [
+    {
+      "frame_id": 0,
+      "timestamp_sec": 0.0,
+      "person_id": 1,
+      "bbox": {
+        "x1": 1483,
+        "y1": 687,
+        "x2": 1728,
+        "y2": 1496
+      },
+      "confidence": 0.751,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame0_person1.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 0,
+      "timestamp_sec": 0.0,
+      "person_id": 2,
+      "bbox": {
+        "x1": 2095,
+        "y1": 470,
+        "x2": 2520,
+        "y2": 1468
+      },
+      "confidence": 0.738,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame0_person2.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 5,
+      "timestamp_sec": 0.2,
+      "person_id": 3,
+      "bbox": {
+        "x1": 1468,
+        "y1": 714,
+        "x2": 1728,
+        "y2": 1498
+      },
+      "confidence": 0.77,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame5_person3.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 5,
+      "timestamp_sec": 0.2,
+      "person_id": 4,
+      "bbox": {
+        "x1": 2100,
+        "y1": 466,
+        "x2": 2507,
+        "y2": 1474
+      },
+      "confidence": 0.762,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame5_person4.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 10,
+      "timestamp_sec": 0.4,
+      "person_id": 5,
+      "bbox": {
+        "x1": 1432,
+        "y1": 729,
+        "x2": 1730,
+        "y2": 1493
+      },
+      "confidence": 0.761,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame10_person5.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 10,
+      "timestamp_sec": 0.4,
+      "person_id": 6,
+      "bbox": {
+        "x1": 2103,
+        "y1": 467,
+        "x2": 2498,
+        "y2": 1470
+      },
+      "confidence": 0.734,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame10_person6.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 15,
+      "timestamp_sec": 0.6,
+      "person_id": 7,
+      "bbox": {
+        "x1": 1418,
+        "y1": 876,
+        "x2": 1739,
+        "y2": 1503
+      },
+      "confidence": 0.807,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame15_person7.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 15,
+      "timestamp_sec": 0.6,
+      "person_id": 8,
+      "bbox": {
+        "x1": 2095,
+        "y1": 466,
+        "x2": 2491,
+        "y2": 1471
+      },
+      "confidence": 0.787,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame15_person8.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 20,
+      "timestamp_sec": 0.8,
+      "person_id": 9,
+      "bbox": {
+        "x1": 2077,
+        "y1": 476,
+        "x2": 2467,
+        "y2": 1483
+      },
+      "confidence": 0.773,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame20_person9.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 20,
+      "timestamp_sec": 0.8,
+      "person_id": 10,
+      "bbox": {
+        "x1": 1394,
+        "y1": 922,
+        "x2": 1735,
+        "y2": 1505
+      },
+      "confidence": 0.745,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame20_person10.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 25,
+      "timestamp_sec": 1.0,
+      "person_id": 11,
+      "bbox": {
+        "x1": 2067,
+        "y1": 484,
+        "x2": 2470,
+        "y2": 1480
+      },
+      "confidence": 0.779,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame25_person11.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 25,
+      "timestamp_sec": 1.0,
+      "person_id": 12,
+      "bbox": {
+        "x1": 1383,
+        "y1": 929,
+        "x2": 1727,
+        "y2": 1505
+      },
+      "confidence": 0.774,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame25_person12.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 30,
+      "timestamp_sec": 1.2,
+      "person_id": 13,
+      "bbox": {
+        "x1": 1378,
+        "y1": 935,
+        "x2": 1718,
+        "y2": 1512
+      },
+      "confidence": 0.812,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame30_person13.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 30,
+      "timestamp_sec": 1.2,
+      "person_id": 14,
+      "bbox": {
+        "x1": 2068,
+        "y1": 496,
+        "x2": 2411,
+        "y2": 1419
+      },
+      "confidence": 0.76,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame30_person14.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 35,
+      "timestamp_sec": 1.4,
+      "person_id": 15,
+      "bbox": {
+        "x1": 1385,
+        "y1": 939,
+        "x2": 1720,
+        "y2": 1519
+      },
+      "confidence": 0.77,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame35_person15.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 35,
+      "timestamp_sec": 1.4,
+      "person_id": 16,
+      "bbox": {
+        "x1": 2069,
+        "y1": 511,
+        "x2": 2346,
+        "y2": 1469
+      },
+      "confidence": 0.698,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame35_person16.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 40,
+      "timestamp_sec": 1.6,
+      "person_id": 17,
+      "bbox": {
+        "x1": 1373,
+        "y1": 933,
+        "x2": 1742,
+        "y2": 1530
+      },
+      "confidence": 0.787,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame40_person17.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 40,
+      "timestamp_sec": 1.6,
+      "person_id": 18,
+      "bbox": {
+        "x1": 2060,
+        "y1": 560,
+        "x2": 2347,
+        "y2": 1504
+      },
+      "confidence": 0.754,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame40_person18.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 45,
+      "timestamp_sec": 1.8,
+      "person_id": 19,
+      "bbox": {
+        "x1": 2036,
+        "y1": 641,
+        "x2": 2313,
+        "y2": 1510
+      },
+      "confidence": 0.81,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame45_person19.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 45,
+      "timestamp_sec": 1.8,
+      "person_id": 20,
+      "bbox": {
+        "x1": 1370,
+        "y1": 933,
+        "x2": 1748,
+        "y2": 1534
+      },
+      "confidence": 0.757,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame45_person20.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 50,
+      "timestamp_sec": 2.0,
+      "person_id": 21,
+      "bbox": {
+        "x1": 2017,
+        "y1": 737,
+        "x2": 2302,
+        "y2": 1498
+      },
+      "confidence": 0.742,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame50_person21.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 50,
+      "timestamp_sec": 2.0,
+      "person_id": 22,
+      "bbox": {
+        "x1": 1376,
+        "y1": 945,
+        "x2": 1698,
+        "y2": 1533
+      },
+      "confidence": 0.58,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame50_person22.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 55,
+      "timestamp_sec": 2.2,
+      "person_id": 23,
+      "bbox": {
+        "x1": 2015,
+        "y1": 802,
+        "x2": 2314,
+        "y2": 1514
+      },
+      "confidence": 0.834,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame55_person23.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 55,
+      "timestamp_sec": 2.2,
+      "person_id": 24,
+      "bbox": {
+        "x1": 1472,
+        "y1": 1116,
+        "x2": 1676,
+        "y2": 1536
+      },
+      "confidence": 0.503,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame55_person24.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 60,
+      "timestamp_sec": 2.4,
+      "person_id": 25,
+      "bbox": {
+        "x1": 2017,
+        "y1": 829,
+        "x2": 2322,
+        "y2": 1523
+      },
+      "confidence": 0.833,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame60_person25.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 60,
+      "timestamp_sec": 2.4,
+      "person_id": 26,
+      "bbox": {
+        "x1": 1358,
+        "y1": 944,
+        "x2": 1678,
+        "y2": 1546
+      },
+      "confidence": 0.712,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame60_person26.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 65,
+      "timestamp_sec": 2.6,
+      "person_id": 27,
+      "bbox": {
+        "x1": 1351,
+        "y1": 943,
+        "x2": 1680,
+        "y2": 1553
+      },
+      "confidence": 0.75,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame65_person27.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 65,
+      "timestamp_sec": 2.6,
+      "person_id": 28,
+      "bbox": {
+        "x1": 2020,
+        "y1": 794,
+        "x2": 2322,
+        "y2": 1522
+      },
+      "confidence": 0.703,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame65_person28.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 70,
+      "timestamp_sec": 2.8,
+      "person_id": 29,
+      "bbox": {
+        "x1": 2014,
+        "y1": 726,
+        "x2": 2319,
+        "y2": 1524
+      },
+      "confidence": 0.828,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame70_person29.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 70,
+      "timestamp_sec": 2.8,
+      "person_id": 30,
+      "bbox": {
+        "x1": 1349,
+        "y1": 949,
+        "x2": 1682,
+        "y2": 1552
+      },
+      "confidence": 0.745,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame70_person30.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 75,
+      "timestamp_sec": 3.0,
+      "person_id": 31,
+      "bbox": {
+        "x1": 1350,
+        "y1": 952,
+        "x2": 1682,
+        "y2": 1547
+      },
+      "confidence": 0.745,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame75_person31.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 75,
+      "timestamp_sec": 3.0,
+      "person_id": 32,
+      "bbox": {
+        "x1": 2016,
+        "y1": 647,
+        "x2": 2325,
+        "y2": 1494
+      },
+      "confidence": 0.704,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame75_person32.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 80,
+      "timestamp_sec": 3.2,
+      "person_id": 33,
+      "bbox": {
+        "x1": 2020,
+        "y1": 591,
+        "x2": 2318,
+        "y2": 1524
+      },
+      "confidence": 0.766,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame80_person33.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 80,
+      "timestamp_sec": 3.2,
+      "person_id": 34,
+      "bbox": {
+        "x1": 1370,
+        "y1": 965,
+        "x2": 1698,
+        "y2": 1543
+      },
+      "confidence": 0.683,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame80_person34.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 85,
+      "timestamp_sec": 3.4,
+      "person_id": 35,
+      "bbox": {
+        "x1": 1383,
+        "y1": 970,
+        "x2": 1710,
+        "y2": 1539
+      },
+      "confidence": 0.799,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame85_person35.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 85,
+      "timestamp_sec": 3.4,
+      "person_id": 36,
+      "bbox": {
+        "x1": 2027,
+        "y1": 573,
+        "x2": 2326,
+        "y2": 1516
+      },
+      "confidence": 0.75,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame85_person36.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 90,
+      "timestamp_sec": 3.6,
+      "person_id": 37,
+      "bbox": {
+        "x1": 1378,
+        "y1": 971,
+        "x2": 1718,
+        "y2": 1540
+      },
+      "confidence": 0.807,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame90_person37.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 90,
+      "timestamp_sec": 3.6,
+      "person_id": 38,
+      "bbox": {
+        "x1": 2021,
+        "y1": 609,
+        "x2": 2308,
+        "y2": 1505
+      },
+      "confidence": 0.759,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame90_person38.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 95,
+      "timestamp_sec": 3.8,
+      "person_id": 39,
+      "bbox": {
+        "x1": 1371,
+        "y1": 972,
+        "x2": 1714,
+        "y2": 1550
+      },
+      "confidence": 0.82,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame95_person39.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 95,
+      "timestamp_sec": 3.8,
+      "person_id": 40,
+      "bbox": {
+        "x1": 2023,
+        "y1": 660,
+        "x2": 2302,
+        "y2": 1495
+      },
+      "confidence": 0.765,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame95_person40.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 100,
+      "timestamp_sec": 4.0,
+      "person_id": 41,
+      "bbox": {
+        "x1": 1380,
+        "y1": 975,
+        "x2": 1736,
+        "y2": 1557
+      },
+      "confidence": 0.815,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame100_person41.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 100,
+      "timestamp_sec": 4.0,
+      "person_id": 42,
+      "bbox": {
+        "x1": 2019,
+        "y1": 717,
+        "x2": 2305,
+        "y2": 1529
+      },
+      "confidence": 0.779,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame100_person42.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 105,
+      "timestamp_sec": 4.2,
+      "person_id": 43,
+      "bbox": {
+        "x1": 2024,
+        "y1": 736,
+        "x2": 2315,
+        "y2": 1526
+      },
+      "confidence": 0.795,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame105_person43.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 105,
+      "timestamp_sec": 4.2,
+      "person_id": 44,
+      "bbox": {
+        "x1": 1399,
+        "y1": 988,
+        "x2": 1725,
+        "y2": 1570
+      },
+      "confidence": 0.784,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame105_person44.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 110,
+      "timestamp_sec": 4.4,
+      "person_id": 45,
+      "bbox": {
+        "x1": 2024,
+        "y1": 741,
+        "x2": 2324,
+        "y2": 1558
+      },
+      "confidence": 0.844,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame110_person45.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 110,
+      "timestamp_sec": 4.4,
+      "person_id": 46,
+      "bbox": {
+        "x1": 1383,
+        "y1": 997,
+        "x2": 1729,
+        "y2": 1574
+      },
+      "confidence": 0.748,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame110_person46.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 115,
+      "timestamp_sec": 4.6,
+      "person_id": 47,
+      "bbox": {
+        "x1": 2024,
+        "y1": 752,
+        "x2": 2326,
+        "y2": 1547
+      },
+      "confidence": 0.824,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame115_person47.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 115,
+      "timestamp_sec": 4.6,
+      "person_id": 48,
+      "bbox": {
+        "x1": 1380,
+        "y1": 1005,
+        "x2": 1743,
+        "y2": 1582
+      },
+      "confidence": 0.648,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame115_person48.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 120,
+      "timestamp_sec": 4.8,
+      "person_id": 49,
+      "bbox": {
+        "x1": 2025,
+        "y1": 759,
+        "x2": 2326,
+        "y2": 1543
+      },
+      "confidence": 0.826,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame120_person49.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 120,
+      "timestamp_sec": 4.8,
+      "person_id": 50,
+      "bbox": {
+        "x1": 1379,
+        "y1": 1005,
+        "x2": 1728,
+        "y2": 1576
+      },
+      "confidence": 0.729,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame120_person50.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 125,
+      "timestamp_sec": 5.0,
+      "person_id": 51,
+      "bbox": {
+        "x1": 2025,
+        "y1": 757,
+        "x2": 2327,
+        "y2": 1548
+      },
+      "confidence": 0.815,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame125_person51.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 125,
+      "timestamp_sec": 5.0,
+      "person_id": 52,
+      "bbox": {
+        "x1": 1379,
+        "y1": 1002,
+        "x2": 1739,
+        "y2": 1579
+      },
+      "confidence": 0.715,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame125_person52.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 130,
+      "timestamp_sec": 5.2,
+      "person_id": 53,
+      "bbox": {
+        "x1": 2022,
+        "y1": 763,
+        "x2": 2328,
+        "y2": 1560
+      },
+      "confidence": 0.804,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame130_person53.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 130,
+      "timestamp_sec": 5.2,
+      "person_id": 54,
+      "bbox": {
+        "x1": 1396,
+        "y1": 988,
+        "x2": 1729,
+        "y2": 1575
+      },
+      "confidence": 0.787,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame130_person54.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 135,
+      "timestamp_sec": 5.4,
+      "person_id": 55,
+      "bbox": {
+        "x1": 1389,
+        "y1": 970,
+        "x2": 1741,
+        "y2": 1577
+      },
+      "confidence": 0.848,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame135_person55.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 135,
+      "timestamp_sec": 5.4,
+      "person_id": 56,
+      "bbox": {
+        "x1": 2026,
+        "y1": 760,
+        "x2": 2324,
+        "y2": 1493
+      },
+      "confidence": 0.8,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame135_person56.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 140,
+      "timestamp_sec": 5.6,
+      "person_id": 57,
+      "bbox": {
+        "x1": 2025,
+        "y1": 737,
+        "x2": 2327,
+        "y2": 1524
+      },
+      "confidence": 0.829,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame140_person57.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 140,
+      "timestamp_sec": 5.6,
+      "person_id": 58,
+      "bbox": {
+        "x1": 1394,
+        "y1": 865,
+        "x2": 1709,
+        "y2": 1562
+      },
+      "confidence": 0.778,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame140_person58.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 145,
+      "timestamp_sec": 5.8,
+      "person_id": 59,
+      "bbox": {
+        "x1": 2022,
+        "y1": 719,
+        "x2": 2326,
+        "y2": 1499
+      },
+      "confidence": 0.813,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame145_person59.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 145,
+      "timestamp_sec": 5.8,
+      "person_id": 60,
+      "bbox": {
+        "x1": 1382,
+        "y1": 824,
+        "x2": 1687,
+        "y2": 1564
+      },
+      "confidence": 0.803,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame145_person60.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 150,
+      "timestamp_sec": 6.0,
+      "person_id": 61,
+      "bbox": {
+        "x1": 2027,
+        "y1": 703,
+        "x2": 2326,
+        "y2": 1526
+      },
+      "confidence": 0.815,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame150_person61.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 150,
+      "timestamp_sec": 6.0,
+      "person_id": 62,
+      "bbox": {
+        "x1": 1392,
+        "y1": 770,
+        "x2": 1675,
+        "y2": 1581
+      },
+      "confidence": 0.743,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame150_person62.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 155,
+      "timestamp_sec": 6.2,
+      "person_id": 63,
+      "bbox": {
+        "x1": 2035,
+        "y1": 713,
+        "x2": 2328,
+        "y2": 1493
+      },
+      "confidence": 0.807,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame155_person63.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 155,
+      "timestamp_sec": 6.2,
+      "person_id": 64,
+      "bbox": {
+        "x1": 1393,
+        "y1": 763,
+        "x2": 1677,
+        "y2": 1586
+      },
+      "confidence": 0.779,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame155_person64.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 160,
+      "timestamp_sec": 6.4,
+      "person_id": 65,
+      "bbox": {
+        "x1": 2024,
+        "y1": 721,
+        "x2": 2354,
+        "y2": 1492
+      },
+      "confidence": 0.807,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame160_person65.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 160,
+      "timestamp_sec": 6.4,
+      "person_id": 66,
+      "bbox": {
+        "x1": 1373,
+        "y1": 772,
+        "x2": 1680,
+        "y2": 1593
+      },
+      "confidence": 0.802,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame160_person66.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 165,
+      "timestamp_sec": 6.6,
+      "person_id": 67,
+      "bbox": {
+        "x1": 1364,
+        "y1": 784,
+        "x2": 1680,
+        "y2": 1593
+      },
+      "confidence": 0.828,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame165_person67.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 165,
+      "timestamp_sec": 6.6,
+      "person_id": 68,
+      "bbox": {
+        "x1": 2043,
+        "y1": 732,
+        "x2": 2364,
+        "y2": 1545
+      },
+      "confidence": 0.797,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame165_person68.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 170,
+      "timestamp_sec": 6.8,
+      "person_id": 69,
+      "bbox": {
+        "x1": 1367,
+        "y1": 800,
+        "x2": 1679,
+        "y2": 1592
+      },
+      "confidence": 0.77,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame170_person69.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 170,
+      "timestamp_sec": 6.8,
+      "person_id": 70,
+      "bbox": {
+        "x1": 2040,
+        "y1": 746,
+        "x2": 2358,
+        "y2": 1541
+      },
+      "confidence": 0.769,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame170_person70.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 175,
+      "timestamp_sec": 7.0,
+      "person_id": 71,
+      "bbox": {
+        "x1": 1359,
+        "y1": 778,
+        "x2": 1677,
+        "y2": 1593
+      },
+      "confidence": 0.765,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame175_person71.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 175,
+      "timestamp_sec": 7.0,
+      "person_id": 72,
+      "bbox": {
+        "x1": 2040,
+        "y1": 765,
+        "x2": 2344,
+        "y2": 1504
+      },
+      "confidence": 0.724,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame175_person72.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 180,
+      "timestamp_sec": 7.2,
+      "person_id": 73,
+      "bbox": {
+        "x1": 1371,
+        "y1": 799,
+        "x2": 1668,
+        "y2": 1595
+      },
+      "confidence": 0.766,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame180_person73.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 180,
+      "timestamp_sec": 7.2,
+      "person_id": 74,
+      "bbox": {
+        "x1": 2038,
+        "y1": 768,
+        "x2": 2342,
+        "y2": 1568
+      },
+      "confidence": 0.704,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame180_person74.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 185,
+      "timestamp_sec": 7.4,
+      "person_id": 75,
+      "bbox": {
+        "x1": 1385,
+        "y1": 817,
+        "x2": 1666,
+        "y2": 1598
+      },
+      "confidence": 0.78,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame185_person75.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 185,
+      "timestamp_sec": 7.4,
+      "person_id": 76,
+      "bbox": {
+        "x1": 2035,
+        "y1": 767,
+        "x2": 2328,
+        "y2": 1559
+      },
+      "confidence": 0.767,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame185_person76.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 190,
+      "timestamp_sec": 7.6,
+      "person_id": 77,
+      "bbox": {
+        "x1": 1348,
+        "y1": 814,
+        "x2": 1661,
+        "y2": 1597
+      },
+      "confidence": 0.823,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame190_person77.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 190,
+      "timestamp_sec": 7.6,
+      "person_id": 78,
+      "bbox": {
+        "x1": 2029,
+        "y1": 771,
+        "x2": 2320,
+        "y2": 1548
+      },
+      "confidence": 0.781,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame190_person78.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 195,
+      "timestamp_sec": 7.8,
+      "person_id": 79,
+      "bbox": {
+        "x1": 1341,
+        "y1": 788,
+        "x2": 1667,
+        "y2": 1601
+      },
+      "confidence": 0.862,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame195_person79.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 195,
+      "timestamp_sec": 7.8,
+      "person_id": 80,
+      "bbox": {
+        "x1": 2026,
+        "y1": 741,
+        "x2": 2307,
+        "y2": 1511
+      },
+      "confidence": 0.819,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame195_person80.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 200,
+      "timestamp_sec": 8.0,
+      "person_id": 81,
+      "bbox": {
+        "x1": 1312,
+        "y1": 798,
+        "x2": 1667,
+        "y2": 1605
+      },
+      "confidence": 0.864,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame200_person81.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 200,
+      "timestamp_sec": 8.0,
+      "person_id": 82,
+      "bbox": {
+        "x1": 2026,
+        "y1": 667,
+        "x2": 2303,
+        "y2": 1502
+      },
+      "confidence": 0.796,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame200_person82.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 205,
+      "timestamp_sec": 8.2,
+      "person_id": 83,
+      "bbox": {
+        "x1": 1309,
+        "y1": 811,
+        "x2": 1665,
+        "y2": 1608
+      },
+      "confidence": 0.881,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame205_person83.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 205,
+      "timestamp_sec": 8.2,
+      "person_id": 84,
+      "bbox": {
+        "x1": 2028,
+        "y1": 607,
+        "x2": 2302,
+        "y2": 1510
+      },
+      "confidence": 0.769,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame205_person84.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 210,
+      "timestamp_sec": 8.4,
+      "person_id": 85,
+      "bbox": {
+        "x1": 1306,
+        "y1": 826,
+        "x2": 1663,
+        "y2": 1601
+      },
+      "confidence": 0.873,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame210_person85.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 210,
+      "timestamp_sec": 8.4,
+      "person_id": 86,
+      "bbox": {
+        "x1": 2056,
+        "y1": 585,
+        "x2": 2319,
+        "y2": 1504
+      },
+      "confidence": 0.722,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame210_person86.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 215,
+      "timestamp_sec": 8.6,
+      "person_id": 87,
+      "bbox": {
+        "x1": 1307,
+        "y1": 834,
+        "x2": 1664,
+        "y2": 1591
+      },
+      "confidence": 0.877,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame215_person87.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 215,
+      "timestamp_sec": 8.6,
+      "person_id": 88,
+      "bbox": {
+        "x1": 2081,
+        "y1": 572,
+        "x2": 2347,
+        "y2": 1527
+      },
+      "confidence": 0.739,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame215_person88.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 220,
+      "timestamp_sec": 8.8,
+      "person_id": 89,
+      "bbox": {
+        "x1": 1335,
+        "y1": 826,
+        "x2": 1667,
+        "y2": 1586
+      },
+      "confidence": 0.867,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame220_person89.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 220,
+      "timestamp_sec": 8.8,
+      "person_id": 90,
+      "bbox": {
+        "x1": 2093,
+        "y1": 567,
+        "x2": 2356,
+        "y2": 1511
+      },
+      "confidence": 0.696,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame220_person90.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 225,
+      "timestamp_sec": 9.0,
+      "person_id": 91,
+      "bbox": {
+        "x1": 1322,
+        "y1": 825,
+        "x2": 1672,
+        "y2": 1590
+      },
+      "confidence": 0.849,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame225_person91.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 225,
+      "timestamp_sec": 9.0,
+      "person_id": 92,
+      "bbox": {
+        "x1": 2093,
+        "y1": 566,
+        "x2": 2450,
+        "y2": 1511
+      },
+      "confidence": 0.633,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame225_person92.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 230,
+      "timestamp_sec": 9.2,
+      "person_id": 93,
+      "bbox": {
+        "x1": 1318,
+        "y1": 835,
+        "x2": 1671,
+        "y2": 1604
+      },
+      "confidence": 0.859,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame230_person93.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 230,
+      "timestamp_sec": 9.2,
+      "person_id": 94,
+      "bbox": {
+        "x1": 2086,
+        "y1": 568,
+        "x2": 2347,
+        "y2": 1559
+      },
+      "confidence": 0.658,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame230_person94.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 235,
+      "timestamp_sec": 9.4,
+      "person_id": 95,
+      "bbox": {
+        "x1": 1318,
+        "y1": 835,
+        "x2": 1668,
+        "y2": 1606
+      },
+      "confidence": 0.841,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame235_person95.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 235,
+      "timestamp_sec": 9.4,
+      "person_id": 96,
+      "bbox": {
+        "x1": 2079,
+        "y1": 576,
+        "x2": 2363,
+        "y2": 1579
+      },
+      "confidence": 0.679,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame235_person96.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 240,
+      "timestamp_sec": 9.6,
+      "person_id": 97,
+      "bbox": {
+        "x1": 1290,
+        "y1": 857,
+        "x2": 1664,
+        "y2": 1596
+      },
+      "confidence": 0.834,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame240_person97.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 240,
+      "timestamp_sec": 9.6,
+      "person_id": 98,
+      "bbox": {
+        "x1": 2076,
+        "y1": 595,
+        "x2": 2362,
+        "y2": 1576
+      },
+      "confidence": 0.647,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame240_person98.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 245,
+      "timestamp_sec": 9.8,
+      "person_id": 99,
+      "bbox": {
+        "x1": 1347,
+        "y1": 863,
+        "x2": 1656,
+        "y2": 1622
+      },
+      "confidence": 0.828,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame245_person99.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 245,
+      "timestamp_sec": 9.8,
+      "person_id": 100,
+      "bbox": {
+        "x1": 2078,
+        "y1": 596,
+        "x2": 2377,
+        "y2": 1598
+      },
+      "confidence": 0.689,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame245_person100.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 250,
+      "timestamp_sec": 10.0,
+      "person_id": 101,
+      "bbox": {
+        "x1": 1331,
+        "y1": 872,
+        "x2": 1660,
+        "y2": 1627
+      },
+      "confidence": 0.843,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame250_person101.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 250,
+      "timestamp_sec": 10.0,
+      "person_id": 102,
+      "bbox": {
+        "x1": 2081,
+        "y1": 603,
+        "x2": 2384,
+        "y2": 1589
+      },
+      "confidence": 0.627,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame250_person102.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 255,
+      "timestamp_sec": 10.2,
+      "person_id": 103,
+      "bbox": {
+        "x1": 1292,
+        "y1": 880,
+        "x2": 1656,
+        "y2": 1618
+      },
+      "confidence": 0.848,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame255_person103.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 255,
+      "timestamp_sec": 10.2,
+      "person_id": 104,
+      "bbox": {
+        "x1": 2087,
+        "y1": 612,
+        "x2": 2384,
+        "y2": 1594
+      },
+      "confidence": 0.626,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame255_person104.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 260,
+      "timestamp_sec": 10.4,
+      "person_id": 105,
+      "bbox": {
+        "x1": 1309,
+        "y1": 934,
+        "x2": 1659,
+        "y2": 1642
+      },
+      "confidence": 0.852,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame260_person105.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 260,
+      "timestamp_sec": 10.4,
+      "person_id": 106,
+      "bbox": {
+        "x1": 2081,
+        "y1": 618,
+        "x2": 2349,
+        "y2": 1617
+      },
+      "confidence": 0.724,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame260_person106.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 265,
+      "timestamp_sec": 10.6,
+      "person_id": 107,
+      "bbox": {
+        "x1": 1308,
+        "y1": 945,
+        "x2": 1661,
+        "y2": 1655
+      },
+      "confidence": 0.845,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame265_person107.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 265,
+      "timestamp_sec": 10.6,
+      "person_id": 108,
+      "bbox": {
+        "x1": 2076,
+        "y1": 624,
+        "x2": 2344,
+        "y2": 1628
+      },
+      "confidence": 0.725,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame265_person108.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 270,
+      "timestamp_sec": 10.8,
+      "person_id": 109,
+      "bbox": {
+        "x1": 1312,
+        "y1": 941,
+        "x2": 1664,
+        "y2": 1651
+      },
+      "confidence": 0.849,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame270_person109.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 270,
+      "timestamp_sec": 10.8,
+      "person_id": 110,
+      "bbox": {
+        "x1": 2075,
+        "y1": 626,
+        "x2": 2342,
+        "y2": 1619
+      },
+      "confidence": 0.76,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame270_person110.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 275,
+      "timestamp_sec": 11.0,
+      "person_id": 111,
+      "bbox": {
+        "x1": 1311,
+        "y1": 926,
+        "x2": 1665,
+        "y2": 1644
+      },
+      "confidence": 0.851,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame275_person111.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 275,
+      "timestamp_sec": 11.0,
+      "person_id": 112,
+      "bbox": {
+        "x1": 2086,
+        "y1": 618,
+        "x2": 2412,
+        "y2": 1616
+      },
+      "confidence": 0.622,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame275_person112.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 280,
+      "timestamp_sec": 11.2,
+      "person_id": 113,
+      "bbox": {
+        "x1": 1307,
+        "y1": 903,
+        "x2": 1664,
+        "y2": 1631
+      },
+      "confidence": 0.851,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame280_person113.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 280,
+      "timestamp_sec": 11.2,
+      "person_id": 114,
+      "bbox": {
+        "x1": 2087,
+        "y1": 610,
+        "x2": 2358,
+        "y2": 1600
+      },
+      "confidence": 0.7,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame280_person114.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 285,
+      "timestamp_sec": 11.4,
+      "person_id": 115,
+      "bbox": {
+        "x1": 1338,
+        "y1": 916,
+        "x2": 1662,
+        "y2": 1650
+      },
+      "confidence": 0.809,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame285_person115.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 285,
+      "timestamp_sec": 11.4,
+      "person_id": 116,
+      "bbox": {
+        "x1": 2077,
+        "y1": 625,
+        "x2": 2473,
+        "y2": 1615
+      },
+      "confidence": 0.567,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame285_person116.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 290,
+      "timestamp_sec": 11.6,
+      "person_id": 117,
+      "bbox": {
+        "x1": 1312,
+        "y1": 927,
+        "x2": 1656,
+        "y2": 1652
+      },
+      "confidence": 0.824,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame290_person117.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 290,
+      "timestamp_sec": 11.6,
+      "person_id": 118,
+      "bbox": {
+        "x1": 2068,
+        "y1": 633,
+        "x2": 2478,
+        "y2": 1627
+      },
+      "confidence": 0.745,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame290_person118.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 295,
+      "timestamp_sec": 11.8,
+      "person_id": 119,
+      "bbox": {
+        "x1": 1323,
+        "y1": 927,
+        "x2": 1652,
+        "y2": 1651
+      },
+      "confidence": 0.81,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame295_person119.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 295,
+      "timestamp_sec": 11.8,
+      "person_id": 120,
+      "bbox": {
+        "x1": 2053,
+        "y1": 635,
+        "x2": 2470,
+        "y2": 1625
+      },
+      "confidence": 0.79,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame295_person120.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 300,
+      "timestamp_sec": 12.0,
+      "person_id": 121,
+      "bbox": {
+        "x1": 1309,
+        "y1": 924,
+        "x2": 1642,
+        "y2": 1650
+      },
+      "confidence": 0.817,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame300_person121.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 300,
+      "timestamp_sec": 12.0,
+      "person_id": 122,
+      "bbox": {
+        "x1": 2029,
+        "y1": 630,
+        "x2": 2450,
+        "y2": 1621
+      },
+      "confidence": 0.747,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame300_person122.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 305,
+      "timestamp_sec": 12.2,
+      "person_id": 123,
+      "bbox": {
+        "x1": 2039,
+        "y1": 644,
+        "x2": 2455,
+        "y2": 1624
+      },
+      "confidence": 0.826,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame305_person123.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 305,
+      "timestamp_sec": 12.2,
+      "person_id": 124,
+      "bbox": {
+        "x1": 1313,
+        "y1": 917,
+        "x2": 1639,
+        "y2": 1655
+      },
+      "confidence": 0.786,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame305_person124.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 310,
+      "timestamp_sec": 12.4,
+      "person_id": 125,
+      "bbox": {
+        "x1": 2029,
+        "y1": 638,
+        "x2": 2429,
+        "y2": 1637
+      },
+      "confidence": 0.835,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame310_person125.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 310,
+      "timestamp_sec": 12.4,
+      "person_id": 126,
+      "bbox": {
+        "x1": 1322,
+        "y1": 935,
+        "x2": 1633,
+        "y2": 1651
+      },
+      "confidence": 0.782,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame310_person126.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 315,
+      "timestamp_sec": 12.6,
+      "person_id": 127,
+      "bbox": {
+        "x1": 1310,
+        "y1": 927,
+        "x2": 1632,
+        "y2": 1628
+      },
+      "confidence": 0.812,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame315_person127.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 315,
+      "timestamp_sec": 12.6,
+      "person_id": 128,
+      "bbox": {
+        "x1": 2024,
+        "y1": 640,
+        "x2": 2438,
+        "y2": 1633
+      },
+      "confidence": 0.779,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame315_person128.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 320,
+      "timestamp_sec": 12.8,
+      "person_id": 129,
+      "bbox": {
+        "x1": 2025,
+        "y1": 637,
+        "x2": 2450,
+        "y2": 1632
+      },
+      "confidence": 0.799,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame320_person129.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 320,
+      "timestamp_sec": 12.8,
+      "person_id": 130,
+      "bbox": {
+        "x1": 1320,
+        "y1": 923,
+        "x2": 1630,
+        "y2": 1630
+      },
+      "confidence": 0.789,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame320_person130.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 325,
+      "timestamp_sec": 13.0,
+      "person_id": 131,
+      "bbox": {
+        "x1": 1314,
+        "y1": 911,
+        "x2": 1636,
+        "y2": 1631
+      },
+      "confidence": 0.846,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame325_person131.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 325,
+      "timestamp_sec": 13.0,
+      "person_id": 132,
+      "bbox": {
+        "x1": 2024,
+        "y1": 634,
+        "x2": 2435,
+        "y2": 1628
+      },
+      "confidence": 0.769,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame325_person132.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 330,
+      "timestamp_sec": 13.2,
+      "person_id": 133,
+      "bbox": {
+        "x1": 2028,
+        "y1": 626,
+        "x2": 2479,
+        "y2": 1626
+      },
+      "confidence": 0.809,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame330_person133.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 330,
+      "timestamp_sec": 13.2,
+      "person_id": 134,
+      "bbox": {
+        "x1": 1328,
+        "y1": 886,
+        "x2": 1639,
+        "y2": 1655
+      },
+      "confidence": 0.806,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame330_person134.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 335,
+      "timestamp_sec": 13.4,
+      "person_id": 135,
+      "bbox": {
+        "x1": 1286,
+        "y1": 879,
+        "x2": 1643,
+        "y2": 1649
+      },
+      "confidence": 0.838,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame335_person135.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 335,
+      "timestamp_sec": 13.4,
+      "person_id": 136,
+      "bbox": {
+        "x1": 2028,
+        "y1": 619,
+        "x2": 2447,
+        "y2": 1616
+      },
+      "confidence": 0.788,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame335_person136.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 340,
+      "timestamp_sec": 13.6,
+      "person_id": 137,
+      "bbox": {
+        "x1": 1245,
+        "y1": 875,
+        "x2": 1647,
+        "y2": 1657
+      },
+      "confidence": 0.841,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame340_person137.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 340,
+      "timestamp_sec": 13.6,
+      "person_id": 138,
+      "bbox": {
+        "x1": 2026,
+        "y1": 614,
+        "x2": 2467,
+        "y2": 1614
+      },
+      "confidence": 0.754,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame340_person138.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 345,
+      "timestamp_sec": 13.8,
+      "person_id": 139,
+      "bbox": {
+        "x1": 1282,
+        "y1": 876,
+        "x2": 1648,
+        "y2": 1649
+      },
+      "confidence": 0.827,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame345_person139.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 345,
+      "timestamp_sec": 13.8,
+      "person_id": 140,
+      "bbox": {
+        "x1": 2063,
+        "y1": 622,
+        "x2": 2471,
+        "y2": 1542
+      },
+      "confidence": 0.725,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame345_person140.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 350,
+      "timestamp_sec": 14.0,
+      "person_id": 141,
+      "bbox": {
+        "x1": 1263,
+        "y1": 878,
+        "x2": 1650,
+        "y2": 1657
+      },
+      "confidence": 0.823,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame350_person141.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 350,
+      "timestamp_sec": 14.0,
+      "person_id": 142,
+      "bbox": {
+        "x1": 2059,
+        "y1": 617,
+        "x2": 2475,
+        "y2": 1619
+      },
+      "confidence": 0.75,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame350_person142.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 355,
+      "timestamp_sec": 14.2,
+      "person_id": 143,
+      "bbox": {
+        "x1": 1342,
+        "y1": 905,
+        "x2": 1640,
+        "y2": 1644
+      },
+      "confidence": 0.775,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame355_person143.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 355,
+      "timestamp_sec": 14.2,
+      "person_id": 144,
+      "bbox": {
+        "x1": 2063,
+        "y1": 623,
+        "x2": 2469,
+        "y2": 1538
+      },
+      "confidence": 0.734,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame355_person144.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 360,
+      "timestamp_sec": 14.4,
+      "person_id": 145,
+      "bbox": {
+        "x1": 2062,
+        "y1": 625,
+        "x2": 2480,
+        "y2": 1534
+      },
+      "confidence": 0.792,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame360_person145.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 360,
+      "timestamp_sec": 14.4,
+      "person_id": 146,
+      "bbox": {
+        "x1": 1368,
+        "y1": 906,
+        "x2": 1652,
+        "y2": 1651
+      },
+      "confidence": 0.768,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame360_person146.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 365,
+      "timestamp_sec": 14.6,
+      "person_id": 147,
+      "bbox": {
+        "x1": 2062,
+        "y1": 629,
+        "x2": 2477,
+        "y2": 1549
+      },
+      "confidence": 0.776,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame365_person147.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 365,
+      "timestamp_sec": 14.6,
+      "person_id": 148,
+      "bbox": {
+        "x1": 1326,
+        "y1": 999,
+        "x2": 1650,
+        "y2": 1649
+      },
+      "confidence": 0.748,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame365_person148.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 370,
+      "timestamp_sec": 14.8,
+      "person_id": 149,
+      "bbox": {
+        "x1": 2052,
+        "y1": 634,
+        "x2": 2469,
+        "y2": 1625
+      },
+      "confidence": 0.754,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame370_person149.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 375,
+      "timestamp_sec": 15.0,
+      "person_id": 150,
+      "bbox": {
+        "x1": 2042,
+        "y1": 639,
+        "x2": 2466,
+        "y2": 1629
+      },
+      "confidence": 0.781,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame375_person150.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 380,
+      "timestamp_sec": 15.2,
+      "person_id": 151,
+      "bbox": {
+        "x1": 2056,
+        "y1": 636,
+        "x2": 2432,
+        "y2": 1638
+      },
+      "confidence": 0.671,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame380_person151.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 385,
+      "timestamp_sec": 15.4,
+      "person_id": 152,
+      "bbox": {
+        "x1": 2054,
+        "y1": 643,
+        "x2": 2398,
+        "y2": 1640
+      },
+      "confidence": 0.701,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame385_person152.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 385,
+      "timestamp_sec": 15.4,
+      "person_id": 153,
+      "bbox": {
+        "x1": 1256,
+        "y1": 1134,
+        "x2": 1656,
+        "y2": 1663
+      },
+      "confidence": 0.555,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame385_person153.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 390,
+      "timestamp_sec": 15.6,
+      "person_id": 154,
+      "bbox": {
+        "x1": 2046,
+        "y1": 639,
+        "x2": 2384,
+        "y2": 1644
+      },
+      "confidence": 0.735,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame390_person154.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 390,
+      "timestamp_sec": 15.6,
+      "person_id": 155,
+      "bbox": {
+        "x1": 1257,
+        "y1": 1104,
+        "x2": 1665,
+        "y2": 1665
+      },
+      "confidence": 0.71,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame390_person155.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 395,
+      "timestamp_sec": 15.8,
+      "person_id": 156,
+      "bbox": {
+        "x1": 1310,
+        "y1": 1048,
+        "x2": 1670,
+        "y2": 1668
+      },
+      "confidence": 0.743,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame395_person156.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 395,
+      "timestamp_sec": 15.8,
+      "person_id": 157,
+      "bbox": {
+        "x1": 2042,
+        "y1": 647,
+        "x2": 2440,
+        "y2": 1644
+      },
+      "confidence": 0.727,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame395_person157.jpg",
+      "in_danger_zone": true
+    },
+    {
+      "frame_id": 400,
+      "timestamp_sec": 16.0,
+      "person_id": 158,
+      "bbox": {
+        "x1": 1311,
+        "y1": 971,
+        "x2": 1681,
+        "y2": 1667
+      },
+      "confidence": 0.822,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame400_person158.jpg",
+      "in_danger_zone": false
+    },
+    {
+      "frame_id": 400,
+      "timestamp_sec": 16.0,
+      "person_id": 159,
+      "bbox": {
+        "x1": 2043,
+        "y1": 650,
+        "x2": 2357,
+        "y2": 1658
+      },
+      "confidence": 0.756,
+      "image_path": "./guardian_eye_output\\candidates\\V3_wo_safety\\frame400_person159.jpg",
+      "in_danger_zone": true
+    }
+  ]
+}
